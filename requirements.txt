@@ -1,0 +1,5 @@
+beautifulsoup4==4.4.1
+bs4==1.2.5
+colorama==0.3.6
+requests==2.9.1
+wheel==0.24.0
